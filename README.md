@@ -1,10 +1,3 @@
-Submit a short summary added to the README.
-The summary should be 5–7 sentences covering:
-The core concept students needed to understand
-Where students are most likely to struggle
-Where AI was helpful vs misleading
-One way they would guide a student without giving the answer
-
 ##Core Concepts##
 
 - Students must understand how to use Copilot to aid in the architecture of backend OOP design. Collaborating this way would allow students to gain a deeper understanding of OOP and utilize those skill sto build foundational intelligent website architecture. 
