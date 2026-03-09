@@ -12,7 +12,7 @@ One way they would guide a student without giving the answer
 ----
 ##Where Students May Struggle##
 
-- Students may struggle with understanding Copilot translation from image to the file it produces and with patience in understanding the depth behind Copilots reasoning and system design in itself. But patience and curiosity will allow students to flourish. 
+- Students may struggle with unit tests, it may be hard to think of a way to test the logic of your classes. Using AI may speed up the thinking process in develop that logc. 
 
 
 ----

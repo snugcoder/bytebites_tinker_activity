@@ -87,7 +87,6 @@ class Transaction:
         return self.customer
     
 class Menu:
-    class Menu:
     def __init__(self):
         self.items = []
 
